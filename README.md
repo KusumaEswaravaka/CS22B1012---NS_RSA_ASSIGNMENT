@@ -59,13 +59,5 @@ Decrypted Message: Hi
 
 ---
 
-## Author
-**Kusuma Eswaravaka (CS22B1012)**  
-Department of Computer Science and Engineering  
-National Institute of Technology Puducherry
 
----
-
-## Disclaimer
-This project is intended for educational and learning purposes only. It is not secure for use in real-world cryptographic applications.
 
