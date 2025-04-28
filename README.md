@@ -52,12 +52,6 @@ Decrypted Message: Hi
 
 ---
 
-## Security Notes
-- The example uses small primes for demonstration purposes. In real-world applications, much larger primes (hundreds of digits) are required for strong security.
-- Cryptographic-grade random number generation should be used (`secrets` module) instead of the standard `random`.
-- Proper padding mechanisms (like OAEP) should be used in practice for enhanced security.
-
----
 
 
 
